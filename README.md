@@ -1,5 +1,6 @@
 
 
+| |
 | **Update (06 March 2021):** *In the beginning of the Covid-19 pandemic, Springer released several technical books for free.  This script could be used to download all the books at the time. Since the books are not free anymore, the script is no longer useful.* | 
 |---|
 
